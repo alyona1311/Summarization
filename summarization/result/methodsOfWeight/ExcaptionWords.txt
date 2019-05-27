@@ -1,0 +1,96 @@
+мая 24, 2019 9:42:13 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: /*
+мая 24, 2019 9:42:13 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: */
+мая 24, 2019 9:42:13 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: ~69%
+мая 24, 2019 9:42:13 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: легкость
+мая 24, 2019 9:42:13 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: распространенному
+мая 24, 2019 9:42:13 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: счетом
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: "купил
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: заработало"
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: soho-
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: "ручек"
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: "вычислительные
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: центры"
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: но…
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: "железо"
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: "софта"
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: причем
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: /*
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: */
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: ~69%
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: легкость
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: распространенному
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: счетом
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: "купил
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: заработало"
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: soho-
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: "ручек"
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: "вычислительные
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: центры"
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: но…
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: "железо"
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: "софта"
+мая 24, 2019 9:42:14 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: причем
+мая 24, 2019 9:42:15 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: /*
+мая 24, 2019 9:42:15 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: */
+мая 24, 2019 9:42:15 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: ~69%
+мая 24, 2019 9:42:15 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: легкость
+мая 24, 2019 9:42:15 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: распространенному
+мая 24, 2019 9:42:15 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: счетом
+мая 24, 2019 9:42:15 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: "купил
+мая 24, 2019 9:42:15 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: заработало"
+мая 24, 2019 9:42:15 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: soho-
+мая 24, 2019 9:42:15 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: "ручек"
+мая 24, 2019 9:42:15 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: "вычислительные
+мая 24, 2019 9:42:15 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: центры"
+мая 24, 2019 9:42:15 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: но…
+мая 24, 2019 9:42:15 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: "железо"
+мая 24, 2019 9:42:15 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: "софта"
+мая 24, 2019 9:42:15 PM elementsOfText.SentenceProcessing splitSentenceByWordsInInitialForm
+WARNING: В словаре отсутствет слово: причем
