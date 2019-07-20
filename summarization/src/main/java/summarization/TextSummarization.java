@@ -13,13 +13,11 @@ import java.io.InputStreamReader;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
-import java.util.Map.Entry;
 import java.util.logging.FileHandler;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
-import methodOfSummarizationAndElementsOfText.MethodsOfSummarizationAndElementsOfText;
+
 
 
 /**
@@ -71,6 +69,7 @@ public class TextSummarization {
      * @param args the command line arguments
      */
     public static void main(String[] args) throws IOException {
+        
 
         Logger log = Logger.getLogger("system");
         Logger loggerWords = Logger.getLogger("loggerWords");
@@ -105,6 +104,7 @@ public class TextSummarization {
 
         log.addHandler(fileHandler);
         loggerWords.addHandler(fileHandlerWords);
+
 
     }
 
